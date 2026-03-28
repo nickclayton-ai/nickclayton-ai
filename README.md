@@ -1,16 +1,25 @@
-## Hi there 👋
+# Nick Clayton
 
-<!--
-**nickclayton-ai/nickclayton-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data-driven systems that turn complex problems into actionable decisions.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Applied AI and machine learning workflows
+- Data integration and decision support systems
+- Building tools for real-world operational environments
+- Turning messy data into usable insight
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Entity Discovery Engine *(in progress)*
+- Operational Decision Dashboard *(in progress)*
+- Applied AI Workflow Tool *(in progress)*
+
+## Approach
+I focus on building systems that:
+- Reduce time-to-decision
+- Scale analysis beyond manual processes
+- Operate effectively in ambiguous, real-world conditions
+
+## Links
+- Portfolio Website *(coming soon)*
+- LinkedIn *(add link)*
+- Resume *(add link)*
